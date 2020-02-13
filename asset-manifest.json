@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/try-pwa/static/css/main.d1b05096.chunk.css",
+    "main.js": "/try-pwa/static/js/main.535ed272.chunk.js",
+    "main.js.map": "/try-pwa/static/js/main.535ed272.chunk.js.map",
+    "runtime-main.js": "/try-pwa/static/js/runtime-main.8f7742aa.js",
+    "runtime-main.js.map": "/try-pwa/static/js/runtime-main.8f7742aa.js.map",
+    "static/js/2.9bf5d9e0.chunk.js": "/try-pwa/static/js/2.9bf5d9e0.chunk.js",
+    "static/js/2.9bf5d9e0.chunk.js.map": "/try-pwa/static/js/2.9bf5d9e0.chunk.js.map",
+    "index.html": "/try-pwa/index.html",
+    "precache-manifest.2c72f99ec47bea1b5157baa117304333.js": "/try-pwa/precache-manifest.2c72f99ec47bea1b5157baa117304333.js",
+    "service-worker.js": "/try-pwa/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/try-pwa/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.9bf5d9e0.chunk.js.LICENSE.txt": "/try-pwa/static/js/2.9bf5d9e0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/try-pwa/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f7742aa.js",
+    "static/js/2.9bf5d9e0.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.535ed272.chunk.js"
+  ]
+}
